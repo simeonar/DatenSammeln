@@ -84,7 +84,21 @@
                     "controls": [
                         {
                             "type": "checkbox",
-                            "text": "Beschreigung ...."
+                            "text": "Beschreigung ....",
+                            "sub_frame": {
+                                "name": "Wartungsdetails",
+                                "description": "Bitte geben Sie die Wartungsdetails ein:",
+                                "controls": [
+                                    {
+                                        "type": "entry",
+                                        "text": "Wartungstyp"
+                                    },
+                                    {
+                                        "type": "checkbox",
+                                        "text": "Sofort erforderlich"
+                                    }
+                                ]
+                            }
                         },
                         {
                             "type": "entry",
