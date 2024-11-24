@@ -1,0 +1,102 @@
+{
+    "options": {
+        "Option 1": {
+            "frames": [
+                {
+                    "name": "Frame 1 Titel",
+                    "description": "Beschreibung:",
+                    "controls": [
+                        {
+                            "type": "checkbox",
+                            "text": "Beschreigung ...."
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Bemerkungen"
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Bemerkungen"
+                        }
+                    ]
+                },
+                {
+                    "name": "Frame 2 Titel",
+                    "description": "Beschreibung:",
+                    "controls": [
+                        {
+                            "type": "checkbox",
+                            "text": "Beschreigung ...."
+                        },
+                        {
+                            "type": "checkbox",
+                            "text": "Beschreigung ...."
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Bemerkungen"
+                        }
+                    ]
+                }
+            ]
+        },
+        "Option 2": {
+            "frames": [
+                {
+                    "name": "Frame 1 Titel",
+                    "description": "Beschreibung:",
+                    "controls": [
+                        {
+                            "type": "checkbox",
+                            "text": "Beschreigung ...."
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Bemerkungen"
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Anmerkungen"
+                        }
+                    ]
+                },
+                {
+                    "name": "Frame 2 Titel",
+                    "description": "Beschreibung:",
+                    "controls": [
+                        {
+                            "type": "checkbox",
+                            "text": "Beschreigung ...."
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Bemerkungen"
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Anmerkungen"
+                        }
+                    ]
+                },
+                {
+                    "name": "Frame 3 Titel",
+                    "description": "Beschreibung:",
+                    "controls": [
+                        {
+                            "type": "checkbox",
+                            "text": "Beschreigung ...."
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Bemerkungen"
+                        },
+                        {
+                            "type": "entry",
+                            "text": "Anmerkungen"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
